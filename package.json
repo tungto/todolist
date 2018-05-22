@@ -2,7 +2,7 @@
   "name": "todolist1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tungto.github.io/todolist-react.js",
+  "homepage": "https://tungto.github.io/todolist",
   "dependencies": {
     "gh-pages": "^1.1.0",
     "react": "^16.3.2",
