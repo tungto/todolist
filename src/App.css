@@ -1,0 +1,19 @@
+.mt-15 {
+	margin-top: 15px;
+}
+.ml-15{
+	margin-left: 15px;
+}
+h3 .d-flex {
+	display: flex
+}
+h3 .justify-content-lg-between {
+	justify-content: space-between
+}
+.panel-title .fa-times {
+	cursor: pointer
+}
+
+.sort_selected {
+	background-color:#f5f5f5
+}
